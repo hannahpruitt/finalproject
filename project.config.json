@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "fileId": "1qcpmugHnDAVYVdjroun8vwpaXsgraXCV_fxxCsB1gjc",
+      "type": "sheet",
+      "name": "albums"
+    },
+    {
+      "fileId": "1f2aQplOb-WyJ6kgvtd_jIMYGr4pLlA3JlJLEQ9jiYPQ",
+      "type": "sheet",
+      "name": "members"
+    }
+  ],
+  "to_bake": [
+    {
+      "template": "bake-members",
+      "data": "members",
+      "array": "members",
+      "slug": "slug",
+      "path": "members"
+    }
+  ]
+}

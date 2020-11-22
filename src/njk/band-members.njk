@@ -1,0 +1,25 @@
+{% extends '_templates/base.njk' %}
+
+{% block content %}
+<article class="container">
+  <h1>Original Band Member Lineup</h1>
+  <p>
+    <div class="row">
+    {% for member in members.members %}
+      <div class="col-sm-6 col-md-3">
+        <div class="card">
+          <div class="card-body">
+            <a href="members/{{ member.slug }}.html" class="btn btn-dark">
+            <h5 class="card-title">{{ member.name }}</h5></a>
+            <p class="card-text">{{ member.instruments }}</p>
+            <p class="card-text">{{ member.tenure }}</p>
+            <p class="card-text">{{ member.birthplace }}</p>
+            <p class="card-text">{{ member.birthdate }}</p>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+   </p>
+</article>
+{% endblock %}
