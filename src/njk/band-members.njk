@@ -2,7 +2,7 @@
 
 {% block content %}
 <article class="container">
-  <h1>Original Band Member Lineup</h1>
+  <h1>Original Lineup</h1>
   <p>
     <div class="row">
     {% for member in members.members %}
@@ -11,11 +11,8 @@
           <div class="card-body">
             <a href="members/{{ member.slug }}.html" class="btn btn-dark">
             <h5 class="card-title">{{ member.name }}</h5></a>
-            <p class="card-text">{{ member.instruments }}</p>
-            <p class="card-text">{{ member.tenure }}</p>
-            <p class="card-text">{{ member.birthplace }}</p>
-            <p class="card-text">{{ member.birthdate }}</p>
           </div>
+        <img src="img/members/{{ member.image }}" alt="member" class="img-fluid">
         </div>
       </div>
     {% endfor %}

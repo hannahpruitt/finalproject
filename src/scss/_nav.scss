@@ -2,4 +2,22 @@
 
 .navbar {
   margin-bottom: 20px;
+  font-family: 'Teko', sans-serif;
+  font-size: 20pt;
+  text-align: center;
+}
+
+nav a {
+  font-size: 20pt;
+}
+
+.navbar-brand {
+  font-size: 30pt;
+}
+
+.img-responsive {
+  height: auto;
+  width: auto;
+  max-height: 72px;
+  max-width: 250px;
 }

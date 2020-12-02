@@ -9,15 +9,17 @@
 {% block content %}
   <article class="container">
     <div class="row">
-{% for member in members.members %}
       <div class="col-sm-4">
-          <img src="../img/{{ slug }}.jpg" alt="" class="img-fluid mb-4">
-{% endfor %}
+          <img src="../img/members/{{ image }}" alt="" class="img-fluid mb-4">
+      </div>
       <div class="col-sm-8">
           <h1>{{ name }}</h1>
           <h2>{{ tenure }}</h2>
+          <h3>{{ instruments }}</h3>
+          <p>Place of birth: {{ birthplace }}</p>
+          <p>Date of birth: {{ birthdate }}</p>
+          <p>{{ description | safe }}</p>
           <p>{{ blurb | safe }}</p>
-        </div>
       </div>
     </div>
   </article>
