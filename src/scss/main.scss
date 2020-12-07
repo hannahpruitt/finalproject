@@ -25,10 +25,19 @@
 h1 {
   font-size: 4rem;
   font-family: 'Teko', sans-serif;
-};
+}
+
+h2 {
+  font-size: 5.5rem;
+}
 
 h3 {
   font-size: 1.5rem;
+}
+
+h5 {
+  font-family: 'Teko', sans-serif;
+  font-size: 2rem;
 }
 
 footer {
@@ -38,6 +47,10 @@ footer {
 .carousel-inner img {
   margin: 0 auto;
   
+}
+
+.card {
+  margin-bottom: 60px;
 }
 
 @import "jumbotron";

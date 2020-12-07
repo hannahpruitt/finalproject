@@ -3,77 +3,92 @@
     {
       "title": "Queen",
       "year": 1973,
-      "image": "Queen_Queen.png"
+      "image": "Queen_Queen.png",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/4Rt2K7fDnKnZFZiPu23M0S\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "Queen II",
       "year": 1974,
-      "image": "Queen_Queen_II.jpg"
+      "image": "Queen_Queen_II.jpg",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/0A2Wy6wDNLs6SPhX57tswJ\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "Sheer Heart Attack",
       "year": 1974,
-      "image": "Queen_Sheer_Heart_Attack.png"
+      "image": "Queen_Sheer_Heart_Attack.png",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/4yO8TpSaJtUKkkjmsA4VXf\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "A Night at the Opera",
       "year": 1975,
-      "image": "Queen_A_Night_At_The_Opera.png"
+      "image": "Queen_A_Night_At_The_Opera.png",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/3KCJzwKOdBxDu6TKaFPqM9\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "A Day at the Races",
       "year": 1976,
-      "image": "Queen_A_Day_at_the_Races.jpg"
+      "image": "Queen_A_Day_at_the_Races.jpg",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/3f45rzbU4dYQBTV9v5RFBB\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "News of the World",
       "year": 1977,
-      "image": "Queen_News_Of_The_World.png"
+      "image": "Queen_News_Of_The_World.png",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/3TKTjR4E3LAMfRsPeRsNhT\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "Jazz",
       "year": 1978,
-      "image": "Queen_Jazz.png"
+      "image": "Queen_Jazz.png",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/5X3rA8To5GDOeIWdQyMEcE\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "The Game",
       "year": 1980,
-      "image": "Queen_The_Game.png"
+      "image": "Queen_The_Game.png",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/1h0j80HhdzIMsUGUFiVkqa\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "Flash Gordon (Original Soundtrack)",
       "year": 1980,
-      "image": "Queen_Flash_Gordon.png"
+      "image": "Queen_Flash_Gordon.png",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/2SS9qutxzz0XZf4zmoQVdx\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "Hot Space",
       "year": 1982,
-      "image": "Queen_Hot_Space.png"
+      "image": "Queen_Hot_Space.png",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/0fZCqpTHYq2k89uG6pPTYE\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "The Works",
       "year": 1984,
-      "image": "Queen_The_Works.png"
+      "image": "Queen_The_Works.png",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/0FbnXAGmgmWBmNthZSgm43\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "A Kind of Magic",
       "year": 1986,
-      "image": "Queen_A_Kind_Of_Magic.png"
+      "image": "Queen_A_Kind_Of_Magic.png",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/6QYnikkyKvjmFtTiZVeCW7\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "The Miracle",
       "year": 1989,
-      "image": "Queen_The_Miracle.png"
+      "image": "Queen_The_Miracle.png",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/1v5l2sZRE5Rweew5PoNFP9\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "Innuendo",
       "year": 1991,
-      "image": "Queen_Innuendo.png"
+      "image": "Queen_Innuendo.png",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/5yAM3CcaXF6DPRJW3oL6Ya\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     },
     {
       "title": "Made in Heaven",
       "year": 1995,
-      "image": "Queen_Made_in_Heaven.jpg"
+      "image": "Queen_Made_in_Heaven.jpg",
+      "link": "<iframe src=\"https://open.spotify.com/embed/album/2SFIh6siY4KYBNPHAV7xaI\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>"
     }
   ]
 }
